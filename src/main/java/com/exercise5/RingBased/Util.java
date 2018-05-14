@@ -1,4 +1,4 @@
-package com.exercise5;
+package com.exercise5.RingBased;
 
 import org.json.JSONObject;
 

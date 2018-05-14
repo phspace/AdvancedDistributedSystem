@@ -1,6 +1,4 @@
-package com.exercise5;
-
-import java.util.Scanner;
+package com.exercise5.RingBased;
 
 public class Main {
 
